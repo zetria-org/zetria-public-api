@@ -1,2 +1,2 @@
-# org
+# zetria.org
 for zetria.org
