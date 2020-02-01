@@ -14,13 +14,13 @@ APIs include (in alphabetical order):
   
  > **No API keys** are needed for the APIs above
   
-#External Websites API
+# External Websites API
   
-#External Websites Result API
+# External Websites Result API
   
-#Report API
+# Report API
   
-#Result API
+# Result API
   
-#Similar Terms API
+# Similar Terms API
   
