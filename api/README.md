@@ -12,4 +12,4 @@ APIs include (in alphabetical order):
  - **Similar Terms API**  
  -> *搜尋近義詞彙*
   
- > **No API keys** are needed for APIs above
+ > **No API keys** are needed for the APIs above
