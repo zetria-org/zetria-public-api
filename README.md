@@ -5,7 +5,7 @@ Files are categorized into different sections, each with its own directory.
   
 **The caterories include:**  
  - [zetria.org API](./api)
- - sitemap
+ - [sitemap](./sitemap)
  - user contributions
  - external links
   
