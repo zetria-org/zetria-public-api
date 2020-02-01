@@ -10,7 +10,7 @@ Files are categorized into different sections, each with its own directory.
    - Report API
    - Data API
    - Similar Terms API
-> Documentations for all APIs are in there directories respectively.  
+> Documentations for all APIs are in their respective directories.  
 ### 2. [Sitemap](./sitemap)
    - The website structure for zetria.org
 ### 3. [User Contributions](./user-contributions)
