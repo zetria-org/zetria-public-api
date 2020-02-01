@@ -9,7 +9,7 @@ APIs include (in alphabetical order):
  -> *搜尋其他教育網站的資料庫*
 - **Report API**  
  -> *回報 學呀 資料庫中的問題資料*
-- **Result API**  
+- **Data API**  
  -> *搜尋 學呀 資料庫中的教育資源*
 - **Similar Terms API**  
  -> *搜尋近義詞彙*
