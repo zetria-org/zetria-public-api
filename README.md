@@ -10,6 +10,7 @@ Files are categorized into different sections, each with its own directory.
    - Report API
    - Result API
    - Similar Terms API
+> Documentations for all APIs are in there directories respectively.  
 ### 2. [Sitemap](./sitemap)
    - The website structure for zetria.org
 ### 3. User Contributions
@@ -17,9 +18,7 @@ Files are categorized into different sections, each with its own directory.
    - and we might add those code to zetria.org
 ### 4. External Links
    - links to other educational websites
-  
-> Documentations for all APIs are in there directories respectively.  
-  
+    
 
 # How to Contribute?
 
