@@ -6,9 +6,9 @@ Files are categorized into different sections, each with its own directory.
 **The caterories include:**  
 ### 1. [zetria.org APIs](./api)
    - External Websites API
-   - External Websites Search API
+   - External Websites Data API
    - Report API
-   - Result API
+   - Data API
    - Similar Terms API
 > Documentations for all APIs are in there directories respectively.  
 ### 2. [Sitemap](./sitemap)
