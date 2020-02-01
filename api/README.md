@@ -5,7 +5,7 @@ APIs include (in alphabetical order):
   
 - **External Websites API**  
  -> *其他教育網站的連結*
-- **External Websites Result API**  
+- **External Websites Data API**  
  -> *搜尋其他教育網站的資料庫*
 - **Report API**  
  -> *回報 學呀 資料庫中的問題資料*
@@ -16,7 +16,7 @@ APIs include (in alphabetical order):
     
 ## External Websites API
   
-## External Websites Result API
+## External Websites Data API
   
 ## Report API
   
