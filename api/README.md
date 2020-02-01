@@ -1,6 +1,6 @@
-## zetria.org APIs  
+# zetria.org APIs  
 
-**No API keys** are needed.  
+**No API keys** are needed. 😉  
 APIs include (in alphabetical order):  
   
 - **External Websites API**  
