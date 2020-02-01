@@ -14,8 +14,7 @@ Files are categorized into different sections, each with its own directory.
 ### 2. [Sitemap](./sitemap)
   The website structure for zetria.org
 ### 3. User Contributions
-  where users can upload their code,  
-  and we might add those code to zetria.org
+    where users can upload their code, and we might add those code to zetria.org
 ### 4. External Links
   links to other educational websites
     
