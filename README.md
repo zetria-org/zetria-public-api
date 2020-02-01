@@ -18,13 +18,11 @@ Files are categorized into different sections, each with its own directory.
 ### 4. External Links
    - links to other educational websites
   
-_________
 > Documentations for all APIs are in there directories respectively.  
   
-Of the categories above, make sure you **only edit "user contribution" and "external links"**.  
-If you feel like to, you can throw things in there, so that others can benefit. 🌹  
-For more details, **read "How to Contribute" below**. 👇
 
 # How to Contribute?
 
-Actually, I don't know for now. contact **service@zetria.org** for further information
+Of the categories above, make sure you **only edit "user contribution" and "external links"**.  
+If you feel like to, you can throw things in there, so that others can benefit. 🌹  
+For more details, **read "How to Contribute" below**. 👇
