@@ -8,6 +8,8 @@ Files are categorized into different sections, each with its own directory.
  - sitemap
  - user contributions
  - external links
+  
+Of the categories above, only "user contribution" and "external links" are edittable.
 
 ## How to Contribute?
 
