@@ -4,4 +4,4 @@ This page is created for those interested in contributing content to zetria.org 
 
 ## How to Contribute?
 
-Actually, I don't know for now. contace **service@zetria.org** for further information
+Actually, I don't know for now. contact **service@zetria.org** for further information
