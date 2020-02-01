@@ -1,7 +1,7 @@
 # zetria.org APIs  
 
+**No API keys** are needed.
 APIs include (in alphabetical order):  
- > **No API keys** are needed for the APIs above
   
 - **External Websites API**  
  -> *其他教育網站的連結*
