@@ -1,4 +1,4 @@
-## zetria.org
+# zetria.org
 
 This page is created for those interested in contributing content to zetria.org 😉  
 Files are categorized into different sections, each with its own directory.  
@@ -24,6 +24,6 @@ Of the categories above, make sure you **only edit "user contribution" and "exte
 If you feel like to, you can throw things in there, so that others can benefit. 🌹  
 For more details, **read "How to Contribute" below**. 👇
 
-## How to Contribute?
+# How to Contribute?
 
 Actually, I don't know for now. contact **service@zetria.org** for further information
