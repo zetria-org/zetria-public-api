@@ -4,18 +4,18 @@ This page is created for those interested in contributing content to zetria.org 
 Files are categorized into different sections, each with its own directory.  
   
 **The caterories include:**  
- - [zetria.org API](./api)
+### - [zetria.org API](./api)
    - External Websites API
    - External Websites Search API
    - Report API
    - Result API
    - Similar Terms API
- - [sitemap](./sitemap)
+### - [sitemap](./sitemap)
    - The website structure for zetria.org
- - user contributions
+### - user contributions
    - where users can upload their code,
    - and we might add those code to zetria.org
- - external links
+### - external links
    - links to other educational websites
   
 > Documentations for all APIs are in there directories respectively.  
