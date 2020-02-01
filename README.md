@@ -11,7 +11,7 @@ Files are categorized into different sections, each with its own directory.
   
 > Documentations for all APIs are in there directories respectively.  
   
-Of the categories above, **only "user contribution" and "external links" are edittable**.  
+Of the categories above, make sure you **only edit "user contribution" and "external links"**.  
 If you feel like to, you can throw things in there, so that others can benefit. 🌹  
 For more details, **read "How to Contribute" below**. 👇
 
