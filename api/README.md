@@ -37,6 +37,8 @@ This API responds with terms related to the search query. It works by examining 
 This API only requires GET data, so simply get response by requesting:  
 ``https://www.zetria.org/api/related-terms?q=${searchQuery}``  
 ### Response
+All responses are in JSON. **Up to 15 terms** might be returned as an object. Each term is with its own score. The higher the score, the more related the term is.  
+``{"term a": score, "term b": score, ... , "term o": score}``
 ### Usage
 For instance, to find terms related to "太空探索", request:  
 ``https://www.zetria.org/api/related-terms?q=太空探索``
