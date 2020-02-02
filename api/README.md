@@ -28,5 +28,9 @@ Coming Soon ⏳
 ## Result API
 Coming Soon ⏳  
   
+## Share Resource API
+Coming Soon ⏳  
+  
 ## Similar Terms API
+Coming Soon ⏳
   
