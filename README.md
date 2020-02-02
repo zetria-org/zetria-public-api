@@ -9,6 +9,7 @@ Files are categorized into different sections, each with its own directory.
    - External Websites Data API
    - Report API
    - Data API
+   - Share Resource API
    - Similar Terms API
 > Documentations for all APIs are in their respective directories.  
 ### 2. [Sitemap](./sitemap)
