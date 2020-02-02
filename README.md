@@ -1,7 +1,6 @@
 # zetria.org
 
-This page is created for those interested in contributing content to zetria.org 😉  
-Files are categorized into different sections, each with its own directory.  
+This page is created for those interested in contributing content to zetria.org 😉 Files are categorized into different sections, each with its own directory.  
   
 **The caterories include:**  
 ### 1. [zetria.org APIs](./api)
