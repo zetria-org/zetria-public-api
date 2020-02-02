@@ -34,5 +34,7 @@ Coming Soon ⏳
 ## Related Terms API
 This API responds with terms related to the search query. It works by examining resouces shared by users, so the more you share, the more accurate the API is. To share resources, click [here](https://zetria.org/share) or use the Share Resource API. Notice that you can **ONLY parse in Chinese characters**, since all the data is in Chinese. This API works most accurately when the search query is about fields of study, general knowledge, or historical events.  
 ### Usage
-This API only requires GET data, so simply get response by going to:  
-```https://www.zetria.org/api/related-terms/?q=${searchQuery}```
+This API only requires GET data, so simply get response by requesting:  
+``https://www.zetria.org/api/related-terms/?q=${searchQuery}``  
+For instance, to find terms related to "太空探索", request:  
+``https://www.zetria.org/api/related-terms/?q=太空探索``
