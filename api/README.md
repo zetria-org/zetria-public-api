@@ -32,5 +32,5 @@ Coming Soon ⏳
 Coming Soon ⏳  
   
 ## Related Terms API
-This API responds with terms related to the search query. 
+This API responds with terms related to the search query. Notice that you can **ONLY parse in Chinese characters**, since all the data is in Chinese.
   
