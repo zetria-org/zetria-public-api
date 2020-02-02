@@ -15,12 +15,16 @@ APIs include (in alphabetical order):
  -> *搜尋近義詞彙*
     
 ## External Websites API
-  
+Coming Soon  
+
 ## External Websites Data API
+Coming Soon  
   
 ## Report API
+Coming Soon  
   
 ## Result API
+Coming Soon  
   
 ## Similar Terms API
   
