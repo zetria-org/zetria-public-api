@@ -11,6 +11,8 @@ APIs include (in alphabetical order):
  -> *回報 學呀 資料庫中的問題資料*
 - **Data API**  
  -> *搜尋 學呀 資料庫中的教育資源*
+- **Share Resource API**  
+ -> *分享教育資源*
 - **Similar Terms API**  
  -> *搜尋近義詞彙*
     
