@@ -31,6 +31,6 @@ Coming Soon ⏳
 ## Share Resource API
 Coming Soon ⏳  
   
-## Similar Terms API
-Coming Soon ⏳
+## Related Terms API
+This API responds with terms related to the search query. 
   
