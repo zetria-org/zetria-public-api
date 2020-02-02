@@ -13,7 +13,7 @@ APIs include (in alphabetical order):
  -> *搜尋 學呀 資料庫中的教育資源*
 - **Share Resource API**  
  -> *分享教育資源*
-- **Similar Terms API**  
+- **Related Terms API**  
  -> *搜尋近義詞彙*
     
 ## External Websites API
