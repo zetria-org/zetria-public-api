@@ -24,4 +24,4 @@ Files are categorized into different sections, each with its own directory.
 
 # How to Contribute?
 
-Of the categories above, make sure you **only edit "user contribution" and "external links"**. If you feel like to, you can throw things in there, so that others can benefit. 🌹
+Of the categories above, make sure you **only edit "user contribution" and "external links."** If you feel like to, you can throw things in there, so that others can benefit. 🌹
