@@ -19,10 +19,8 @@
 判斷地理氣候圖的程式  
 上傳後將被專人審核  
 就有可能變成 學呀 的一部分哦😊
-### 5. [Website Discussions](./website-discussions)
-   - Instructions and problem discussions for zetria.org
-    
+### 4. [網站討論](./website-discussions)
+關於 Zetria 學呀  
+有任何意見、問題、 Bug 回報  
+都歡迎提出來大家討論歐❤
 
-# How to Contribute?
-
-Of the categories above, make sure you **only edit "user contribution" and "external links."** If you feel like to, you can throw things in there, so that others can benefit. 🌹
