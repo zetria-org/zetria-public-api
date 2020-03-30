@@ -1,6 +1,9 @@
 # zetria.org
 
-This page is created for those interested in contributing content to zetria.org 😉 Files are categorized into different sections, each with its own directory.  
+這個頁面是為 Zetria學呀 設置的  
+在這個網絡資源發達的年代，  
+我們在此共享資源  
+這裡我們提供以下資料：
   
 **The caterories include:**  
 ### 1. [zetria.org APIs](./api)
