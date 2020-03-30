@@ -13,8 +13,12 @@
    - 學呀資源分享 API
    - 相關字詞 API
 > 相關的使用說明請點擊[連結](./api)  
-### 3. [使用者程式貢獻](./user-contributions)
-   使用者可以自由上傳程式，
+### 3. [使用者程式貢獻](./user-contributions)  
+使用者可以自由上傳程式  
+舉例來說 我可以製作一個  
+判斷地理氣候圖的程式  
+上傳後將被專人審核  
+就有可能變成 學呀 的一部分哦😊
 ### 5. [Website Discussions](./website-discussions)
    - Instructions and problem discussions for zetria.org
     
