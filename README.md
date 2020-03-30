@@ -13,13 +13,13 @@
    - 學呀資源分享 API
    - [相關詞彙 API](./api/related-terms.md)
 > 相關的使用說明請點擊[連結](./api)  
-### 3. [使用者程式貢獻](./user-contributions)  
+### 2. [使用者程式貢獻](./user-contributions)  
 使用者可以自由上傳程式  
 舉例來說 我可以製作一個  
 判斷地理氣候圖的程式  
 上傳後將被專人審核  
 就有可能變成 學呀 的一部分哦😊
-### 4. [網站討論](./website-discussions)
+### 3. [網站討論](./website-discussions)
 關於 Zetria 學呀  
 有任何意見、問題、 Bug 回報  
 都歡迎提出來大家討論歐❤
