@@ -1,14 +1,15 @@
 ## Related Terms API
-This API responds with terms related to the search query. It works by examining resouces shared by users, so the more you share, the more accurate the API is. To share resources, click [here](https://zetria.org/share) or use the Share Resource API. Notice that you can **ONLY parse in Chinese characters**, since all the data is in Chinese. This API works most accurately when the search query is about fields of study, general knowledge, or historical events.  
-### Request
-This API only requires GET data, so simply get response by requesting:  
+這個 API 回傳與搜尋字串近意或相關的字詞。此 API 運作的原理是藉由比對 學呀 資料庫中字詞與字詞間的相關性，並依之找出最相近的詞彙。 因為 學呀 的資料庫開放讓大家上傳，因此大家上傳得越多，這個 API 就會越精準。分享資源，請至 [此](https://zetria.org/share) 或使用 學呀資源分享API。請注意，千萬**只輸入繁體中文的搜尋字串**，畢竟絕大多數的資料都是中文的。由於 學呀 是教學資源分享平台，這個 API 會在搜尋字串與學術相關時搜尋到最精準的結果。
+  
+### 要求
+請使用 `` GET 'q' `` 來要求回覆，如下：  
   
 ``https://www.zetria.org/api/related-terms?q=${searchQuery}``  
-### Response
+### 回覆
 All responses are in JSON. **Up to 15 terms** might be returned as an object. Each term is with its own score. The higher the score is, the more related the term is.  
   
 ``{"term a": score, "term b": score, ... , "term o": score}``
-### Usage
+### 使用
 For instance, to find terms related to "太空探索", request:  
   
 ``https://www.zetria.org/api/related-terms?q=太空探索``  
