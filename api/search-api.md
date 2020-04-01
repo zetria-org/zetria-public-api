@@ -45,7 +45,7 @@
 | key | value |
 | :---------: | ----------- |
 | type | 資料的內容類型 <br>（"video"/"course"/"link"） |
-| detail | 資料的詳細內容 <br>（video->YouTube ID/course->Zetria ID/link->Link URL） |
+| detail | 資料的詳細內容 <br>（video -> YouTube ID <br> / course -> Zetria ID <br> / link -> Link URL） |
 
 ### 使用 💡
 舉例來說，要搜尋與「太空探索」相關的詞彙時，需要要求：  
