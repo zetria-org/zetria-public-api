@@ -45,7 +45,7 @@
 | key | value |
 | :---------: | ----------- |
 | type | 資料的內容類型 <br>("video"/"course"/"link") |
-| detail | 資料的詳細內容 <br>( video -> YouTube ID <br> / course -> Zetria ID <br> / link -> Link URL ) |
+| detail | 資料的詳細內容 <br> video -> YouTube ID <br> course -> Zetria ID <br> link -> Link URL ) |
 | title | 資料的標題 <br>(為於學呀分享時所被定義的標題) |
 | tag1 | 標籤1 |
 | tag2 | 標籤2 |
