@@ -12,7 +12,7 @@
 
 ```
 [
-&ntab; {"type": "video", },  
+&nbsp; {"type": "video", },  
 {},  
 {}]
 ```
