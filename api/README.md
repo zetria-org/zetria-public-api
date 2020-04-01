@@ -5,6 +5,6 @@
    - 學呀問題回報 API
    - 學呀搜尋 API
    - 學呀資源分享 API
-   - [相關詞彙 API](./api/related-terms.md)
+   - [相關詞彙 API](./related-terms.md)
   
   
