@@ -20,9 +20,25 @@
   "tag2": "標籤2",  
   "tag3": "標籤3",  
   "distance": 15.63
- },
- {"type": "video", "detail": "VlbZTyBuclQ", "title": "影片標題", "tag1": "標籤1", "tag2": "標籤2", "tag3": "標籤3", "distance": 15.63},
- {"type": "video", "detail": "VlbZTyBuclQ", "title": "影片標題", "tag1": "標籤1", "tag2": "標籤2", "tag3": "標籤3", "distance": 15.63}  
+ },  
+ {  
+  "type": "video",  
+  "detail": "VlbZTyBuclQ",  
+  "title": "影片標題",  
+  "tag1": "標籤1",  
+  "tag2": "標籤2",  
+  "tag3": "標籤3",  
+  "distance": 15.63
+ },  
+ {  
+  "type": "video",  
+  "detail": "VlbZTyBuclQ",  
+  "title": "影片標題",  
+  "tag1": "標籤1",  
+  "tag2": "標籤2",  
+  "tag3": "標籤3",  
+  "distance": 15.63
+ },  
 ]
 ```
 
