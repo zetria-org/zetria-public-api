@@ -14,7 +14,7 @@
 [
  {  
   "type": "video",  
-  "detail": "VlbZTyBuclQ",  
+  "detail": "YT-Video-ID",  
   "title": "影片標題",  
   "tag1": "標籤1",  
   "tag2": "標籤2",  
