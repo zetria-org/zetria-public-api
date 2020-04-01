@@ -12,7 +12,7 @@
 
 ```
 [
-&nbsp; {"type": "video", },  
+> {"type": "video", },  
 {},  
 {}]
 ```
