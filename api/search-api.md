@@ -41,9 +41,9 @@
 使用``"detail"``建立超連結，應如下：
 | type | URL |
 | :---------: | ----------- |
-| "video" | https://www.youtube.com/watch?v=${detail} |
-| "course" | https://www.zetria.org/view?only=true&chap=${detail} |
-| "link" | ${detail} |
+| "video" | ``https://www.youtube.com/watch?v=${detail}`` |
+| "course" | ``https://www.zetria.org/view?only=true&chap=${detail}`` |
+| "link" | ``${detail}`` |
 
 ### 使用 💡
 舉例來說，要搜尋與「太空探索」相關的學習資源時，需要要求：  
