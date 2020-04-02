@@ -56,13 +56,13 @@
  {  
   "type":"course",  
   "detail":"ewl03gxmi4",  
-  "title":"\u7f85\u99ac\u738b\u570b",  
-  "tag1":"\u738b\u653f\u6642\u671f",  
-  "tag2":"\u53f0\u4f2f\u6cb3",  
-  "tag3":"\u4e16\u754c\u6b77\u53f2",  
+  "title":"\u7f85\u99ac\u738b\u570b",//"羅馬王國"  
+  "tag1":"\u738b\u653f\u6642\u671f",//"王政時期"  
+  "tag2":"\u53f0\u4f2f\u6cb3",//台伯河  
+  "tag3":"\u4e16\u754c\u6b77\u53f2",//"世界歷史"  
   "distance":4.851388888888889,  
   "usage":"world_history",  
-  "usage_string":"\u4e16\u754c\u53f2"
+  "usage_string":"\u4e16\u754c\u53f2"//"世界史"
  },
  {  
   "type":"video",  
