@@ -47,8 +47,8 @@
 | "link" | ``${detail}`` |
 
 ### 使用 💡
-舉例來說，要搜尋與「太空探索」相關的學習資源時，需要要求：    
-``https://www.zetria.org/api/search-api?q=太空探索``  
+舉例來說，要搜尋與「羅馬王國」相關的學習資源時，需要要求：    
+``https://www.zetria.org/api/search-api?q=羅馬王國``  
   
 將會得到類似如此的回覆：  
 ```
