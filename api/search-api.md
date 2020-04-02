@@ -44,7 +44,7 @@
 | type | URL |
 | :---------: | ----------- |
 | "video" | ``https://www.youtube.com/watch?v=${detail}`` |
-| "course" | ``https://www.zetria.org/view?only=true&chap=${detail}``<br>或<br> ``https://www.zetria.org/view?subj=${usage}&chap=${detail}``|
+| "course" | ``https://www.zetria.org/view?only=true&chap=${detail}``**或**<br> ``https://www.zetria.org/view?subj=${usage}&chap=${detail}``|
 | "link" | ``${detail}`` |
 
 ### 使用 💡
