@@ -42,11 +42,11 @@
  usage_string<br>("course"專屬) | 學呀課程所屬的科目名稱 (中文)   
   
 👀使用``"detail"``建立超連結，應如下：
-| type | URL |
-| :---------: | ----------- |
-| "video" | ``https://www.youtube.com/watch?v=${detail}`` |
-| "course" | ``https://www.zetria.org/view?only=true&chap=${detail}``**或**<br> ``https://www.zetria.org/view?subj=${usage}&chap=${detail}``|
-| "link" | ``${detail}`` |
+ type | URL 
+ :---------: | ----------- 
+ "video" | ``https://www.youtube.com/watch?v=${detail}`` 
+ "course" | ``https://www.zetria.org/view?only=true&chap=${detail}``**或**<br> ``https://www.zetria.org/view?subj=${usage}&chap=${detail}``
+ "link" | ``${detail}`` 
 
 ### 使用 💡
 舉例來說，要搜尋與「羅馬王國」相關的學習資源時，需要要求：    
