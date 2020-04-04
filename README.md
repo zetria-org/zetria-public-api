@@ -10,7 +10,7 @@
    - 教育資源平台搜尋URI API
    - 學呀問題回報 API
    - [學呀搜尋 API](./api/search-api.md)
-   - 學呀資源分享 API
+   - [學呀資源分享 API](./api/share.md)
    - [相關詞彙 API](./api/related-terms.md)
 > 相關的使用說明請點擊[連結](./api)  
 > 關於 API 的使用說明(JavaScript)，請至[連結](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)  
