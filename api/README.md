@@ -7,7 +7,7 @@
 這裡我們提供以下資料：
    - 教育資源平台列表 API
    - 教育資源平台搜尋URI API
-   - 學呀問題回報 API
+   - [學呀問題回報 API](./search-report.md)
    - [學呀搜尋 API](./search-api.md)
    - [學呀資源分享 API](./share.md)
    - [相關詞彙 API](./related-terms.md)
