@@ -11,6 +11,7 @@
 {  
    'detail': 'string',  
    // 與搜尋API回傳的detail欄位相同'  
+     
    'problem': 'Description of the problem'  
    // 小於等於60字元的問題敘述
    
