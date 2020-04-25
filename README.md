@@ -8,7 +8,7 @@
 ### 1. [zetria 學呀 APIs](./api)
    - 教育資源平台列表 API
    - 教育資源平台搜尋URI API
-   - 學呀問題回報 API
+   - [學呀問題回報 API](./api/search-report.md)
    - [學呀搜尋 API](./api/search-api.md)
    - [學呀資源分享 API](./api/share.md)
    - [相關詞彙 API](./api/related-terms.md)
