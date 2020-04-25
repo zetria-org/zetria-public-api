@@ -9,8 +9,10 @@
 內容應使用 json 格式，如下：  
 ```
 {  
-   'detail': 'string' // 與搜尋API回傳的detail欄位相同'  
-   ,'problem': 'Description of the problem' // 小於等於60字元的問題敘述
+   'detail': 'string',  
+   // 與搜尋API回傳的detail欄位相同'  
+   'problem': 'Description of the problem'  
+   // 小於等於60字元的問題敘述
    
 }
 ```
