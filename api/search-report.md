@@ -7,12 +7,12 @@
 請使用 `` POST `` 來送出回報，如下：  
 ``https://www.zetria.org/api/search-report``  
 內容應使用 json 格式，如下：  
-``
+```
 {  
    'detail': 'string',
    'problem': 'Description of the problem'  
 }
-``
+```
 
 ### 回覆 📃
 正常情況下，您將不會得到回覆。
