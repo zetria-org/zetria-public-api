@@ -49,7 +49,7 @@ data 物件的屬性如下：
 ```
 
 const XMLHttpRequest 
-  = require("xmlhttprequest").XMLHttpRequest;
+   = require("xmlhttprequest").XMLHttpRequest;
 
 const xhr = new XMLHttpRequest();
 const output = {
@@ -65,7 +65,7 @@ const output = {
 };
 xhr.onerror = reject;
 xhr.open('POST', 
-  'https://www.zetria.org/api/share');
+   'https://www.zetria.org/api/share');
 xhr.send(JSON.stringify(output));
 
 ```
