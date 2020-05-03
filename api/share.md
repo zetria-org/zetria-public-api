@@ -17,6 +17,7 @@
    'data': {
       'type': 'type',
       'detail': 'detail',
+      'title': 'title',
       'tag1': 'tag1',
       'tag2': 'tag2',
       'tag3': 'tag3'
@@ -25,4 +26,14 @@
 
 }
 
-```
+```  
+``data`` 物件的屬性如下：  
+
+ key | value 
+ :---------: | ----------- 
+ type | 資料的內容類型 <br>("video"/"link") 
+ detail | 資料的詳細內容 <br> "video" -> YouTube ID/URL <br> "link" -> Link URL 
+ title | 資料的標題 
+ tag1 | 標籤1 
+ tag2 | 標籤2 
+ tag3 | 標籤3 
