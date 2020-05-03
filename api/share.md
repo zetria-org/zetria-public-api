@@ -11,8 +11,18 @@
 內容應使用 json 格式，如下：  
 ```
 {
-   'user_code': 'your-user-code'
+   'user_code': 'your-user-code',
    // User Code 請在此學呀的資源分享API頁面取得
+
+   'data': {
+      'type': 'type',
+      'detail': 'detail',
+      'tag1': 'tag1',
+      'tag2': 'tag2',
+      'tag3': 'tag3'
+   }
+   // 實際要拿來分享的資料
+
 }
 
 ```
