@@ -37,7 +37,7 @@ data 物件的屬性如下：
  tag1 | 標籤1 
  tag2 | 標籤2 
  tag3 | 標籤3 
-  
-> 若您不確定分享的連結是不是  
-> YouTube 連結，可以統一將  
-> type 屬性設為 video
+
+❗ 注意  
+1. 若您不確定分享的連結是不是 YouTube 連結，可以統一將 type 屬性設為 video  
+2. title 與 tag1~3 是自己取名的，建議使用中文
