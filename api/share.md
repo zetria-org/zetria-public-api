@@ -42,3 +42,28 @@ data 物件的屬性如下：
 1. 若您不確定分享的連結是不是 YouTube 連結，可以統一將 type 屬性設為 video  
 2. title 與 tag1~3 是自己取名的，建議使用中文，長度需在 25 個中文字元以下。
 3. tag1~3 輸入的是與分享的內容相關的字串，例如標題為「火星」，則標籤可以為「天文」、「行星」、「太陽系」等。
+
+
+### 使用 💡  
+以下以Node.js為例子：  
+```
+
+const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+
+const xhr = new XMLHttpRequest();
+const output = {
+   'user_code': 'PASTE_YOUR_CODE_HERE',
+   'data': {
+      'type': 'LINK/VIDEO',
+      'title': 'TITLE_OF_THE_RESOURCE',
+      'detail': 'LINK_URL/YOUTUBE_URL',
+      'tag1': 'TAG1',
+      'tag2': 'TAG2',
+      'tag3': 'TAG3',
+   }
+};
+xhr.onerror = reject;
+xhr.open('POST', 'https://www.zetria.org/api/share');
+xhr.send(JSON.stringify(output));
+
+```
