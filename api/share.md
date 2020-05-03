@@ -48,7 +48,8 @@ data 物件的屬性如下：
 以下以Node.js為例子：  
 ```
 
-const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+const XMLHttpRequest 
+  = require("xmlhttprequest").XMLHttpRequest;
 
 const xhr = new XMLHttpRequest();
 const output = {
@@ -63,7 +64,8 @@ const output = {
    }
 };
 xhr.onerror = reject;
-xhr.open('POST', 'https://www.zetria.org/api/share');
+xhr.open('POST', 
+  'https://www.zetria.org/api/share');
 xhr.send(JSON.stringify(output));
 
 ```
