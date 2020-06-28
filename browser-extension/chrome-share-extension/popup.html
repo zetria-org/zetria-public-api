@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        :root{
+            --width: 384px;
+            --height: 310px;
+        }
+        
+        html, body{
+            width: var(--width);
+            height: var(--height);
+            background-color: #fefefe;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .background-wrap-dvf54dg5v1535215sdc{
+            width: var(--width);
+            height: calc(var(--height) - 20px);
+            background-color: #fcfcfc;
+        }
+
+        .content-box-dvdf51v351cw5es163v51f53x135{
+            width: 80%;
+            margin: 0 auto;
+            border-radius: 5px;
+            background-color: white;
+            /* box-shadow: 0 0 13px 0 rgba(0, 0, 0, .15); */
+            overflow: hidden;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        .content-box-1-v2fx351c35s1d3c13x{
+            height: 155px;
+            margin-top: 0px;
+        }
+
+        .content-box-2-vd35f1v351sd15c5153{
+            height: 80px;
+            margin-top: 0;
+            display: flex;
+        }
+
+        .url-box-5vf1351s3d51fc355c{
+            width: calc(75% - 2 * 1em);
+            height: 40px;
+            line-height: 40px;
+            font-size: 17px;
+            padding: 0 1em;
+            display: block;
+            outline: none;
+            border: 1px solid rgb(200, 200, 200);
+            margin: 40px auto 0 auto;
+            border-radius: 4px;
+            box-shadow: inset 0 0 2px 0 rgba(0, 0, 0, .2);
+            background-color:rgb(253, 253, 253);
+        }
+
+        .url-box::placeholder{
+            color: rgb(200, 200, 200);
+        }
+
+        .button-sf351dc35s1d{
+            width: calc(75% + 2 * 1px);
+            height: calc(40px + 2* 1px);
+            line-height: calc(40px + 2* 1px);
+            margin: 13px auto;
+            border-radius: 4px;
+            background-color:rgb(0, 0, 0);
+            color: white;
+            text-align: center;
+            font-size: 17px;
+            letter-spacing: .2em;
+            font-family: 'Microsoft Jhenghei';
+            transition: .15s;
+            cursor: pointer;
+        }
+
+        .button:hover{
+            background-color: rgb(40, 40, 40);
+        }
+
+        .left-avatar-vd5v6f51s61v6sf162v{
+            width: 90px;
+            height: 80px;
+        }
+
+        .left-avatar-vd5v6f51s61v6sf162v-picture{
+            width: calc(60px);
+            height: calc(60px);
+            margin-top: calc(80px / 2 - 60px / 2 - 1px);
+            margin-left: 30px;
+            border: 1px solid rgb(180, 180, 180);
+            border-radius: 50%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 75%;
+            filter: contrast(1.4);
+            background-image: url(./logo2.svg);
+        }
+
+        .right-links-4v635s13vf0031351{
+            width: calc(var(--width) * 0.8 - 80px);
+            height: 80px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .right-link-button-v3d513fv13s13v1d{
+            width: 39px;
+            height: 39px;
+            transition: .15s;
+            cursor: pointer;
+            margin: calc(80px * 0.5 - 39px * 0.5) 2px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 60%;
+            filter: contrast(0.8);
+            border-radius: 4px;
+        }
+
+        .right-link-button-v3d513fv13s13v1d:hover{
+            background-color: rgb(0, 0, 0, .07);
+        }
+
+        .button-working-3e51f35cwe51315{background-color: rgb(90, 90, 90); cursor: default}
+        .button-working-3e51f35cwe51315:hover{background-color: rgb(90, 90, 90);}
+        .button-success-3531dv1f351v3wr51{background-color: rgb(64, 210, 50); cursor: default}
+        .button-success-3531dv1f351v3wr51:hover{background-color: rgb(64, 210, 50);}
+
+        .home-v3f51x351c6s161vv{background-image: url(./home.svg);}
+        .courses-df5v1351s31fv2sf3{background-image: url(./all_list.svg);}
+        .upload-d31v3s13dc13s51fb351{background-image: url(./share.svg);}
+        .login-651j1n3fdx1a35f1v310056{background-image: url(./user.svg);}
+
+        .footer-b351dz3f1v3s13d1v{
+            width: 100%;
+            height: 40px;
+            background-color: rgb(242, 242, 242);
+            font-size: 12px;
+            padding: 13px 0;
+            line-height: 17px;
+            text-align: center;
+            color: rgb(160, 160, 160);
+            letter-spacing: 0.1em;
+            margin-top: 15px;
+        }
+
+    </style>
+    <script src="popup.js" defer></script>
+</head>
+<body>
+    <div class="background-wrap-dvf54dg5v1535215sdc">
+        <div class="content-box-dvdf51v351cw5es163v51f53x135 content-box-1-v2fx351c35s1d3c13x">
+            <input type="text" class="url-box-5vf1351s3d51fc355c" id="url-box-vdf1v35d135v6s513v51s351v51xc" placeholder="想要分享的網址">
+            <div class="button-sf351dc35s1d" id="share-button-sfcdxfvcs54654n65gbdfxdawdscd6561">分享至學呀</div>
+        </div>
+        <div class="content-box-dvdf51v351cw5es163v51f53x135 content-box-2-vd35f1v351sd15c5153">
+            <div class="left-avatar-vd5v6f51s61v6sf162v">
+                <div class="left-avatar-vd5v6f51s61v6sf162v-picture"></div>
+            </div>
+            <div class="right-links-4v635s13vf0031351">
+                <a target="_blank" href="https://www.zetria.org/"><div class="right-link-button-v3d513fv13s13v1d home-v3f51x351c6s161vv"></div></a>
+                <a target="_blank" href="https://www.zetria.org/courses.php"><div class="right-link-button-v3d513fv13s13v1d courses-df5v1351s31fv2sf3"></div></a>
+                <a target="_blank" href="https://www.zetria.org/upload.php"><div class="right-link-button-v3d513fv13s13v1d upload-d31v3s13dc13s51fb351"></div></a>
+                <a target="_blank" href="https://www.zetria.org/account/login.php"><div class="right-link-button-v3d513fv13s13v1d login-651j1n3fdx1a35f1v310056"></div></a>
+            </div>
+        </div>
+        <footer class="footer-b351dz3f1v3s13d1v">分享您認為具教育性質的網站<br>致知識，致自由，致教育</footer>
+    </div>
+</body>
+</html>
