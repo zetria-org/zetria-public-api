@@ -1,5 +1,5 @@
-⛔️ 新版平台建置中！！！部分 API 功能可能暫時無法使用！
-
+# ⛔️ 新版平台建置中！！！部分 API 功能可能暫時無法使用！
+# NEW PUBLIC API IS BEING BUILT [LINK](https://github.com/zetria-org/public-api)
   
 # zetria.org
 💛💚💙💜  
