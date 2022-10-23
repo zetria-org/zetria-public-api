@@ -2,7 +2,7 @@
 # NEW PUBLIC API IS BEING BUILT [LINK](https://github.com/zetria-org/public-api)
   
 # zetria.org
-💛💚💙💜  
+
 這個頁面是為 Zetria 學呀 設置的  
 在這個網絡資源發達的年代 🕸  
 我們在此共享資源 ❤  
